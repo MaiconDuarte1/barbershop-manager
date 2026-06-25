@@ -179,12 +179,6 @@ The `backups/` folder is included in the repository to avoid errors during the f
 
 ---
 
-## Screenshots
-
-You can add screenshots here.
-
----
-
 ## License
 
 This project is licensed under the MIT License.

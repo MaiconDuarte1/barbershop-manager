@@ -1,0 +1,50 @@
+# ===== CORES PRINCIPAIS =====
+
+BACKGROUND = "#0F172A"
+
+SIDEBAR = "#111827"
+
+CARD = "#1E293B"
+
+# ===== CORES DE AÇÃO =====
+
+PRIMARY = "#3B82F6"
+
+SUCCESS = "#10B981"
+
+WARNING = "#F59E0B"
+
+# ===== TEXTO =====
+
+TEXT = "#FFFFFF"
+
+TEXT_SECONDARY = "#94A3B8"
+
+# ENTRIES
+
+ENTRY_BG = "#1E293B"
+ENTRY_BORDER = "#374151"
+ENTRY_FOCUS = "#3B82F6"
+
+# BOTÕES
+
+BUTTON = "#2563EB"
+BUTTON_HOVER = "#1D4ED8"
+
+# ----------------------------------------------------
+
+TOPBAR = "#111827"
+
+CONTENT = "#0B1120"
+
+SIDEBAR_HOVER = "#1F2937"
+
+LOGIN_CARD = "#1E293B"
+
+INPUT_HEIGHT = 45
+
+LOGIN_WIDTH = 450
+
+DANGER = "#DC2626"
+
+DANGER_HOVER = "#B91C1C"
